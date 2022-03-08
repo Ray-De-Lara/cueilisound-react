@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74ff3515.css",
-    "main.js": "/static/js/main.6904c908.js",
+    "main.js": "/static/js/main.410966ce.js",
     "static/media/xv.mp4": "/static/media/xv.6cd3563225d8f48624f3.mp4",
     "static/media/teatro.mp4": "/static/media/teatro.909a63e81d238e3e9eec.mp4",
     "static/media/conciertos.mp4": "/static/media/conciertos.27bb44df30eb1fde6bd5.mp4",
@@ -14,10 +14,10 @@
     "static/media/Ray-De-Lara.jpg": "/static/media/Ray-De-Lara.99bfaa4e420514bcbb04.jpg",
     "index.html": "/index.html",
     "main.74ff3515.css.map": "/static/css/main.74ff3515.css.map",
-    "main.6904c908.js.map": "/static/js/main.6904c908.js.map"
+    "main.410966ce.js.map": "/static/js/main.410966ce.js.map"
   },
   "entrypoints": [
     "static/css/main.74ff3515.css",
-    "static/js/main.6904c908.js"
+    "static/js/main.410966ce.js"
   ]
 }
