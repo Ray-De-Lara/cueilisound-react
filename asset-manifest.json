@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.74ff3515.css",
-    "main.js": "/static/js/main.cf10246e.js",
-    "static/media/Gabriel-Ramirez.png": "/static/media/Gabriel-Ramirez.13d619322764f530cb17.png",
-    "static/media/Ruben-Ramirez.png": "/static/media/Ruben-Ramirez.013ab2b7175623b7cd72.png",
-    "static/media/Rocio-Heredia.jpeg": "/static/media/Rocio-Heredia.a554da3d4eabccbd4cd4.jpeg",
-    "static/media/Ray-De-Lara.jpg": "/static/media/Ray-De-Lara.99bfaa4e420514bcbb04.jpg",
-    "index.html": "/index.html",
-    "main.74ff3515.css.map": "/static/css/main.74ff3515.css.map",
-    "main.cf10246e.js.map": "/static/js/main.cf10246e.js.map"
+    "main.css": "/cueilisound-react/static/css/main.74ff3515.css",
+    "main.js": "/cueilisound-react/static/js/main.f49d2d58.js",
+    "static/media/Gabriel-Ramirez.png": "/cueilisound-react/static/media/Gabriel-Ramirez.13d619322764f530cb17.png",
+    "static/media/Ruben-Ramirez.png": "/cueilisound-react/static/media/Ruben-Ramirez.013ab2b7175623b7cd72.png",
+    "static/media/Rocio-Heredia.jpeg": "/cueilisound-react/static/media/Rocio-Heredia.a554da3d4eabccbd4cd4.jpeg",
+    "static/media/Ray-De-Lara.jpg": "/cueilisound-react/static/media/Ray-De-Lara.99bfaa4e420514bcbb04.jpg",
+    "index.html": "/cueilisound-react/index.html",
+    "main.74ff3515.css.map": "/cueilisound-react/static/css/main.74ff3515.css.map",
+    "main.f49d2d58.js.map": "/cueilisound-react/static/js/main.f49d2d58.js.map"
   },
   "entrypoints": [
     "static/css/main.74ff3515.css",
-    "static/js/main.cf10246e.js"
+    "static/js/main.f49d2d58.js"
   ]
 }
