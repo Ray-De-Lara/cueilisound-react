@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.74ff3515.css",
-    "main.js": "/static/js/main.410966ce.js",
+    "main.css": "/static/css/main.8e12c5b5.css",
+    "main.js": "/static/js/main.d7aa00e1.js",
     "static/media/xv.mp4": "/static/media/xv.6cd3563225d8f48624f3.mp4",
     "static/media/teatro.mp4": "/static/media/teatro.909a63e81d238e3e9eec.mp4",
     "static/media/conciertos.mp4": "/static/media/conciertos.27bb44df30eb1fde6bd5.mp4",
@@ -10,14 +10,15 @@
     "static/media/RHerediaCV.pdf": "/static/media/RHerediaCV.0d59cd924ac74a674737.pdf",
     "static/media/Gabriel-Ramirez.png": "/static/media/Gabriel-Ramirez.13d619322764f530cb17.png",
     "static/media/Ruben-Ramirez.png": "/static/media/Ruben-Ramirez.013ab2b7175623b7cd72.png",
-    "static/media/Rocio-Heredia.jpeg": "/static/media/Rocio-Heredia.a554da3d4eabccbd4cd4.jpeg",
+    "static/media/Aranza-Eliu.jpg": "/static/media/Aranza-Eliu.2f6bab0cee2851d63794.jpg",
+    "static/media/Rocio-Heredia.jpeg": "/static/media/Rocio-Heredia.0129e319f16f9571faca.jpeg",
     "static/media/Ray-De-Lara.jpg": "/static/media/Ray-De-Lara.99bfaa4e420514bcbb04.jpg",
     "index.html": "/index.html",
-    "main.74ff3515.css.map": "/static/css/main.74ff3515.css.map",
-    "main.410966ce.js.map": "/static/js/main.410966ce.js.map"
+    "main.8e12c5b5.css.map": "/static/css/main.8e12c5b5.css.map",
+    "main.d7aa00e1.js.map": "/static/js/main.d7aa00e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.74ff3515.css",
-    "static/js/main.410966ce.js"
+    "static/css/main.8e12c5b5.css",
+    "static/js/main.d7aa00e1.js"
   ]
 }
